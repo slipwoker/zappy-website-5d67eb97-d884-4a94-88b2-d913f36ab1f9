@@ -2,13 +2,13 @@
 
 A modest swimwear brand catering to women who seek stylish yet modest beach and swimwear options. The brand combines fashion-forward design with modesty values, likely appealing to religious or conservative communities who want to look great at the beach or pool without compromising their values.
 
-Source: https://modest-bikini-5d67eb97.zappy5.app
+Source: https://example.com
 
 ---
 
 ## בגדי ים צנועים שתאהבי ללבוש — Modest bikini
 
-URL: https://modest-bikini-5d67eb97.zappy5.app
+URL: https://example.com
 Description: גלי את הקולקציה המלאה של בגדי ים צנועים ואופנתיים. modest bikini set מושלם לכל אישה שרוצה לזרוח בחוף הים מבלי לוותר על הערכים שלה. קני עכשיו!
 
 בגדי ים צנועים שתאהבי ללבוש — Modest bikini
@@ -512,7 +512,7 @@ Description: גלי את הקולקציה המלאה של בגדי ים צנוע
 
 ## האמונה שמאחורי כל תפר — Modest bikini
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/brand-story
+URL: https://example.com/brand-story
 Description: הכירי את הסיפור האמיתי שעומד מאחורי המותג שמשנה את עולם בגדי הים הצנועים. מחזון לקולקציה — גלי מדוע אלפי נשים בחרו ב־Modest bikini כמותג האהוב עליהן.
 
 האמונה שמאחורי כל תפר — Modest bikini
@@ -957,7 +957,7 @@ Modest Bikini נולדה מתוך אמונה פשוטה: כל אישה ראוי�
 
 ## מידה מושלמת, בד שמרגיש כמו שני — Modest bikini
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/fit-and-fabric
+URL: https://example.com/fit-and-fabric
 Description: מחפשת modest bikini tops לחזה גדול? מדריך המידות והחומרים שלנו יעזור לך למצוא את ההתאמה המדויקת לגופך. חומרים איכותיים, נוחות מקסימלית, סטייל ללא פשרות.
 
 מידה מושלמת, בד שמרגיש כמו שני — Modest bikini
@@ -1438,7 +1438,7 @@ Description: מחפשת modest bikini tops לחזה גדול? מדריך המי�
 
 ## יש לך שאלה? אנחנו כאן בשבילך — Modest bikini
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/contact
+URL: https://example.com/contact
 Description: צרי איתנו קשר ותקבלי ייעוץ אישי לבחירת ה־modest bikini set המושלם עבורך. צוות המומחים שלנו ישמח לעזור בבחירת מידה, סגנון ומשלוח. נשמח לשמוע ממך!
 
 יש לך שאלה? אנחנו כאן בשבילך — Modest bikini
@@ -1878,7 +1878,7 @@ Description: צרי איתנו קשר ותקבלי ייעוץ אישי לבחי�
 
 ## מוצרים
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Modest bikini
 
 מוצרים - Modest bikini
@@ -2133,7 +2133,7 @@ Description: המוצרים שלנו - Modest bikini
 
 ## עגלת קניות
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Modest bikini
@@ -2364,7 +2364,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Modest bikini
@@ -2778,7 +2778,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Modest bikini
@@ -3016,7 +3016,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Modest bikini
@@ -3409,7 +3409,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Modest bikini
@@ -3664,7 +3664,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Modest bikini
@@ -3948,7 +3948,7 @@ Modest bikini מחויבת לשביעות רצון לקוחותיה. מדיני�
 
 ## פרטי המוצר
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Modest bikini
 
 פרטי המוצר - Modest bikini
@@ -4181,7 +4181,7 @@ Description: פרטי המוצר - Modest bikini
 
 ## מוצרים
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Modest bikini
 
 מוצרים - Modest bikini
@@ -4438,7 +4438,7 @@ Description: מוצרים - Modest bikini
 
 ## מדיניות פרטיות
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4714,7 +4714,7 @@ Modest bikini ("החברה", "אנו", "שלנו") מחויבת להגן על פ
 
 ## הצהרת נגישות
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4999,7 +4999,7 @@ Modest bikini מחויבת להנגיש את השירותים לכלל הציב�
 
 ## תנאי שימוש
 
-URL: https://modest-bikini-5d67eb97.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

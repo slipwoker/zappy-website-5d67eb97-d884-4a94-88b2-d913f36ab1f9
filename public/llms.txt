@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://modest-bikini-5d67eb97.zappy5.app
+https://example.com
 גלי את הקולקציה המלאה של בגדי ים צנועים ואופנתיים. modest bikini set מושלם לכל אישה שרוצה לזרוח בחוף הים מבלי לוותר על הערכים שלה. קני עכשיו!
 
 ### סיפור המותג
-https://modest-bikini-5d67eb97.zappy5.app/brand-story
+https://example.com/brand-story
 הכירי את הסיפור האמיתי שעומד מאחורי המותג שמשנה את עולם בגדי הים הצנועים. מחזון לקולקציה — גלי מדוע אלפי נשים בחרו ב־Modest bikini כמותג האהוב עליהן.
 
 ### מידות וחומרים
-https://modest-bikini-5d67eb97.zappy5.app/fit-and-fabric
+https://example.com/fit-and-fabric
 מחפשת modest bikini tops לחזה גדול? מדריך המידות והחומרים שלנו יעזור לך למצוא את ההתאמה המדויקת לגופך. חומרים איכותיים, נוחות מקסימלית, סטייל ללא פשרות.
 
 ### צור קשר
-https://modest-bikini-5d67eb97.zappy5.app/contact
+https://example.com/contact
 צרי איתנו קשר ותקבלי ייעוץ אישי לבחירת ה־modest bikini set המושלם עבורך. צוות המומחים שלנו ישמח לעזור בבחירת מידה, סגנון ומשלוח. נשמח לשמוע ממך!
 
 ### Products
-https://modest-bikini-5d67eb97.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Modest bikini
 
 ### Cart
-https://modest-bikini-5d67eb97.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://modest-bikini-5d67eb97.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://modest-bikini-5d67eb97.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://modest-bikini-5d67eb97.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://modest-bikini-5d67eb97.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://modest-bikini-5d67eb97.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Modest bikini
 
 ### Category
-https://modest-bikini-5d67eb97.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Modest bikini
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://modest-bikini-5d67eb97.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://modest-bikini-5d67eb97.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://modest-bikini-5d67eb97.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -96,8 +96,8 @@ A modest swimwear brand catering to women who seek stylish yet modest beach and 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://modest-bikini-5d67eb97.zappy5.app/sitemap.xml
-- Robots: https://modest-bikini-5d67eb97.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://modest-bikini-5d67eb97.zappy5.app/llms-full.txt
-- Products (JSON): https://modest-bikini-5d67eb97.zappy5.app/products.json
-- Products (Google Merchant RSS): https://modest-bikini-5d67eb97.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
